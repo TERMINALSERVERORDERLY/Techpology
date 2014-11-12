@@ -1,0 +1,9 @@
+{
+    "name": "name of the tree, such as Software",
+    "desc": "description of the tree, such as ...",
+    "children":{
+        "name":"leaf",
+        "desc":"...",
+        "children":null
+    }
+}

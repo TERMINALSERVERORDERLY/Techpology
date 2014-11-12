@@ -1,0 +1,9 @@
+{
+  "name": "name of the node, such as AngularJS",
+  "description": "description of the node, such as AngularJS",
+  "website": "http://angularjs.org",
+  "icon": "image url of small icon",
+  "tags":{
+    "Javascript":true
+  }
+}
